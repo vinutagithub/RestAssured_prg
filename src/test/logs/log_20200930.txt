@@ -1,0 +1,29 @@
+Request method:	GET
+Request URI:	https://api.weather.gov/alerts/active/area/CA
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+Server: nginx/1.16.1
+Content-Type: application/geo+json
+Last-Modified: Thu, 01 Oct 2020 05:36:33 GMT
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Feature-Flags
+X-Request-ID: bdff2133-0efe-4ec8-aa67-ba25bc5b379a
+X-Correlation-ID: 4ffe063c
+X-Server-ID: vm-bldr-nids-apiapp2.ncep.noaa.gov
+Content-Encoding: gzip
+Content-Length: 10764
+Cache-Control: public, max-age=29, s-maxage=30
+Expires: Thu, 01 Oct 2020 06:58:59 GMT
+Date: Thu, 01 Oct 2020 06:58:30 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Edge-Request-ID: 136120b7
+Vary: Accept,Feature-Flags,Accept-Language
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains ; preload

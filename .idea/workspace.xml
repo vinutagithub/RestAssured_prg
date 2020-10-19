@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="845b7a8d-2329-4730-9d65-e7f4910f6697" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i2CMQxyOb9vKMTE0j7KueK2bVg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.OAuthTest.test_OAuth">
+    <configuration name="BasicAuth.tc_BasicAuth" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredBDDApproach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restAssuredBDD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restAssuredBDD" />
+      <option name="MAIN_CLASS_NAME" value="com.restAssuredBDD.BasicAuth" />
+      <option name="METHOD_NAME" value="tc_BasicAuth" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuthTest.test_OAuth" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredBDDApproach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restAssuredBDD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restAssuredBDD" />
+      <option name="MAIN_CLASS_NAME" value="com.restAssuredBDD.OAuthTest" />
+      <option name="METHOD_NAME" value="test_OAuth" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassingParameterbetweenTest.test_ScenarioRetrieveFirstCircuitFor2017SeasonAndGetCountry_ShouldBeAustralia" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredBDDApproach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restAssuredBDD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restAssuredBDD" />
+      <option name="MAIN_CLASS_NAME" value="com.restAssuredBDD.PassingParameterbetweenTest" />
+      <option name="METHOD_NAME" value="test_ScenarioRetrieveFirstCircuitFor2017SeasonAndGetCountry_ShouldBeAustralia" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathparameterTest.test_ApiWithPathParameter" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredBDDApproach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restAssuredBDD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restAssuredBDD" />
+      <option name="MAIN_CLASS_NAME" value="com.restAssuredBDD.PathparameterTest" />
+      <option name="METHOD_NAME" value="test_ApiWithPathParameter" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PathparameterTest.test_ApiWithpathParameter" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredBDDApproach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restAssuredBDD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restAssuredBDD" />
+      <option name="MAIN_CLASS_NAME" value="com.restAssuredBDD.PathparameterTest" />
+      <option name="METHOD_NAME" value="test_ApiWithpathParameter" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OAuthTest.test_OAuth" />
+        <item itemvalue="TestNG.BasicAuth.tc_BasicAuth" />
+        <item itemvalue="TestNG.PassingParameterbetweenTest.test_ScenarioRetrieveFirstCircuitFor2017SeasonAndGetCountry_ShouldBeAustralia" />
+        <item itemvalue="TestNG.PathparameterTest.test_ApiWithpathParameter" />
+        <item itemvalue="TestNG.PathparameterTest.test_ApiWithPathParameter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="845b7a8d-2329-4730-9d65-e7f4910f6697" name="Default Changelist" comment="" />
+      <created>1601096251426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601096251426</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1234" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1601449320230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1234" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601449320230" />
+    <state width="1877" height="73" key="GridCell.Tab.0.bottom" timestamp="1601602986562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="73" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601602986562" />
+    <state width="1877" height="73" key="GridCell.Tab.0.center" timestamp="1601602986562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="73" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601602986562" />
+    <state width="1877" height="73" key="GridCell.Tab.0.left" timestamp="1601602986562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="73" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601602986562" />
+    <state width="1877" height="73" key="GridCell.Tab.0.right" timestamp="1601602986562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="73" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601602986562" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1601502096453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601502096453" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601443073461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601443073461" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/restAssuredBDD/PathparameterTest.java</url>
+          <line>22</line>
+          <properties class="com.restAssuredBDD.PathparameterTest" method="test_ApiWithPathParameter">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/restAssuredBDD/BasicAuth.java</url>
+          <line>18</line>
+          <properties class="com.restAssuredBDD.BasicAuth" method="tc_BasicAuth">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/restAssuredBDD/QueryParameterTest.java</url>
+          <line>34</line>
+          <properties class="com.restAssuredBDD.QueryParameterTest" method="queryparam_data">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
