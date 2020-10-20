@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="845b7a8d-2329-4730-9d65-e7f4910f6697" name="Default Changelist" comment="" />
+    <list default="true" id="845b7a8d-2329-4730-9d65-e7f4910f6697" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/restAssuredBDD/GetRequest_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/restAssuredBDD/GetRequest_demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/RestAssuredBDDApproach.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/restAssuredBDD/GetRequest_demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/restAssuredBDD/GetRequest_demo.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +31,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1i2CMQxyOb9vKMTE0j7KueK2bVg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,8 +39,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="TestNG.OAuthTest.test_OAuth">
+  <component name="RunManager" selected="TestNG.GetRequest_demo.tc_getMethod_003">
     <configuration name="BasicAuth.tc_BasicAuth" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="RestAssuredBDDApproach" />
       <extension name="coverage">
@@ -42,6 +54,42 @@
       <option name="PACKAGE_NAME" value="com.restAssuredBDD" />
       <option name="MAIN_CLASS_NAME" value="com.restAssuredBDD.BasicAuth" />
       <option name="METHOD_NAME" value="tc_BasicAuth" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetRequest_demo.tc_getMethod_002" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured_prg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restAssuredBDD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restAssuredBDD" />
+      <option name="MAIN_CLASS_NAME" value="com.restAssuredBDD.GetRequest_demo" />
+      <option name="METHOD_NAME" value="tc_getMethod_002" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetRequest_demo.tc_getMethod_003" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured_prg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restAssuredBDD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restAssuredBDD" />
+      <option name="MAIN_CLASS_NAME" value="com.restAssuredBDD.GetRequest_demo" />
+      <option name="METHOD_NAME" value="tc_getMethod_003" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -67,44 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassingParameterbetweenTest.test_ScenarioRetrieveFirstCircuitFor2017SeasonAndGetCountry_ShouldBeAustralia" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssuredBDDApproach" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.restAssuredBDD.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.restAssuredBDD" />
-      <option name="MAIN_CLASS_NAME" value="com.restAssuredBDD.PassingParameterbetweenTest" />
-      <option name="METHOD_NAME" value="test_ScenarioRetrieveFirstCircuitFor2017SeasonAndGetCountry_ShouldBeAustralia" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PathparameterTest.test_ApiWithPathParameter" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssuredBDDApproach" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.restAssuredBDD.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.restAssuredBDD" />
-      <option name="MAIN_CLASS_NAME" value="com.restAssuredBDD.PathparameterTest" />
-      <option name="METHOD_NAME" value="test_ApiWithPathParameter" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PathparameterTest.test_ApiWithpathParameter" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="RestAssuredBDDApproach" />
+    <configuration name="PathparameterTest.test_ApiWithpathParameter (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured_prg" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.restAssuredBDD.*" />
@@ -123,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GetRequest_demo.tc_getMethod_003" />
+        <item itemvalue="TestNG.PathparameterTest.test_ApiWithpathParameter (1)" />
+        <item itemvalue="TestNG.GetRequest_demo.tc_getMethod_002" />
         <item itemvalue="TestNG.OAuthTest.test_OAuth" />
         <item itemvalue="TestNG.BasicAuth.tc_BasicAuth" />
-        <item itemvalue="TestNG.PassingParameterbetweenTest.test_ScenarioRetrieveFirstCircuitFor2017SeasonAndGetCountry_ShouldBeAustralia" />
-        <item itemvalue="TestNG.PathparameterTest.test_ApiWithpathParameter" />
-        <item itemvalue="TestNG.PathparameterTest.test_ApiWithPathParameter" />
       </list>
     </recent_temporary>
   </component>
@@ -149,22 +161,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1234" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601449320230" />
-    <state width="1877" height="73" key="GridCell.Tab.0.bottom" timestamp="1601602986562">
+    <state width="1877" height="301" key="GridCell.Tab.0.bottom" timestamp="1603181323950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="73" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601602986562" />
-    <state width="1877" height="73" key="GridCell.Tab.0.center" timestamp="1601602986562">
+    <state width="1877" height="301" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603181323950" />
+    <state width="1877" height="301" key="GridCell.Tab.0.center" timestamp="1603181323949">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="73" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601602986562" />
-    <state width="1877" height="73" key="GridCell.Tab.0.left" timestamp="1601602986562">
+    <state width="1877" height="301" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603181323949" />
+    <state width="1877" height="301" key="GridCell.Tab.0.left" timestamp="1603181323949">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="73" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601602986562" />
-    <state width="1877" height="73" key="GridCell.Tab.0.right" timestamp="1601602986562">
+    <state width="1877" height="301" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603181323949" />
+    <state width="1877" height="301" key="GridCell.Tab.0.right" timestamp="1603181323949">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="73" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601602986562" />
+    <state width="1877" height="301" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603181323949" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1603180306378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603180306378" />
     <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1601502096453">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -17,6 +17,7 @@ import static io.restassured.RestAssured.*;
 import java.lang.reflect.Method;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
 
 
 public class GetRequest_demo {
@@ -44,5 +45,39 @@ public class GetRequest_demo {
                     .assertThat().body("features[2].properties.senderName",equalTo("NWS Los Angeles/Oxnard CA"))
                     //.log().body().body("features[2].properties.senderName",equalTo("NWS Hanford CA"));
                     .log().headers();
+    }
+
+    //on cloning adding few more testcase
+
+    @Test
+    public  void tc_getMethod_002(){
+        given()
+                .log().all()
+        .when()
+                .get("http://ergast.com/api/f1/2017/circuits.json")
+        .then()
+                .assertThat().body("MRData.CircuitTable.season",equalTo("2017"))
+                .log().all();
+
+    }
+
+    @Test
+    public  void tc_getMethod_003(){
+
+        ArrayList<String> arrayList_circuitId= new ArrayList<>();
+
+        arrayList_circuitId=
+        given()
+                .log().all()
+        .when()
+                .get("http://ergast.com/api/f1/2017/circuits.json")
+        .then()
+                .assertThat().body("MRData.CircuitTable.season",equalTo("2017"))
+                .extract().path("MRData.CircuitTable.Circuits.circuitId");
+
+        for(String a: arrayList_circuitId){
+            System.out.println(a);
+        }
+
     }
 }
